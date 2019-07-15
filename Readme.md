@@ -6,6 +6,7 @@
 <p><strong>Introduction</strong></p>
 <p>This project helps to keep track of the hardware specifications and resource usages of a linux cluster by creating a RDBMS database to monitor cluster usage and plan for cluster growth.</p>
 <p><strong>Architecture</strong></p>
+<img src="/diagram.PNG">
 <p><strong>Implementation</strong></p>
 <p>An init.sql file id created that contains set of sql commands to create a database and the two tables.</p>
 <p>The two tables created are :</p>
