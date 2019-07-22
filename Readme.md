@@ -19,7 +19,6 @@
 <p><strong>Crontab</strong></p>
 <p>Crontab is used to trigger the Host_usage.sh file at regular intervals.</p>
 <p><strong>Usage</strong></p>
-<p>An init.sql file id created that contains set of SQL commands to create a database and the two tables.</p>
 <p>Execute init.sql:</p>
 <p>psql -h localhost -U postgres -W host_agent -f init.sql</p>
 <p>host_info.sh:</p>
