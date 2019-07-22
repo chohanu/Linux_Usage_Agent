@@ -3,8 +3,7 @@
 
 ---
 
-<p>&lt;![endif]–&gt;</p>
-<p><strong>Introduction</strong></p>
+<p>*<em>Introduction</em></p>
 <p>This project helps to keep track of the hardware specifications and resource usages of a linux cluster by creating a RDBMS database to monitor cluster usage and plan for cluster growth.</p>
 <p><strong>PSQL TABLES</strong></p>
 <p>The two tables created are :</p>
