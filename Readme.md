@@ -5,6 +5,8 @@
 
 <p><strong>Introduction</strong></p>
 <p>This project helps to keep track of the hardware specifications and resource usages of a linux cluster by creating a RDBMS database to monitor cluster usage and plan for cluster growth.</p>
+<p><strong>Architecture</strong></p>
+<img src="/diagram.PNG">
 <p><strong>Psql Tables</strong></p>
 <p>The two tables created are :</p>
 <p>1)Host_Info - It stores hardware specification information.<br>
