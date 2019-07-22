@@ -25,21 +25,7 @@
 <p>host_usage.sh:</p>
 <p>bash host_usage.sh psql_host psql_port db_name psql_user psql_password</p>
 <p>Crontab usage: It runs the scripts and creates a log file.</p>
-<ul>
-<li>
-<ul>
-<li>
-<ul>
-<li>
-<ul>
-<li>/home/centos/dev/jrvs/bootcamp/host_agent/scripts/host_usage.sh localhost 5432 host_agent postgres password &gt; /tmp/host_usage.log</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<p>/home/centos/dev/jrvs/bootcamp/host_agent/scripts/host_usage.sh localhost 5432 host_agent postgres password &gt; /tmp/host_usage.log</p>
 <p><strong>Improvements</strong></p>
-<p>&lt;![if !supportLists]&gt;· &lt;![endif]&gt;Tracking hardware changes -host_info will need to be updated after a system hardware update</p>
+<p>Tracking hardware changes -host_info will need to be updated after a system hardware update</p>
 
